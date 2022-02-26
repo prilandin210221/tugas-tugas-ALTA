@@ -1,0 +1,13 @@
+# Section 3 Sofware Testing as A Career Path
+
+## Tugas Praktikum 
+1. Mulai
+2. Isi penuh ember yang 3 liter dengan air.
+3. tuangkan air dari ember yang 3 liter kedalam ember 5 liter. (ember 5 liter sekarang berisi 3 liter air. ember 3 liter sekarang kosong).
+4. setelah kosong, isi lagi ember 3 liter dengan air hingga penuh. (ember 3 liter sekarang berisi 3 liter air).
+5. kemudian, tuangkan air dari ember 3 liter kedalam ember 5 liter hingga penuh. (didalam ember 3 liter sekarang tersisa 1 liter air, di ember 5 liter sekarang berisi 5 liter air).
+6. kemudian buang seluruh air dari ember 5 liter. (ember 5 liter sekarang kosong)
+7. kemudian tuangkan air dari ember 3 liter (ember 3 liter berisi 1 liter air) ke dalam ember 5 liter. (sekarang, ember 5 liter berisi 1 liter air dan ember 3 liter air kosong)
+8. kemudian isi penuh ember 3 liter yang kosong tadi dengan air. (ember 3 liter sekarang berisi 3 liter air).
+9. selanjutnya, tuangkan air dari ember 3 liter ke dalam ember 5 liter. (ember 5 liter sekarang berisi 1 + 3 = 4 liter air. sebelumnya didalam ember 5 liter sudah berisi air 1 liter).
+10. Selesai.
